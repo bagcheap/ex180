@@ -16,3 +16,5 @@ Use https://learning.oreilly.com/videos/red-hat-certified/9780137442058/ to set 
 • https://www.redhat.com/sysadmin/behind-scenes-podman
  ```
  
+**Using OpenShift Sandbox** 
+https://learning.oreilly.com/videos/red-hat-certified/9780137442058/9780137442058-RHS1_02_06_06/
