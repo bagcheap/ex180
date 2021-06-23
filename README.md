@@ -5,7 +5,7 @@ files in this repo are to be used with my EX180 prep course. See sandervanvugt.c
 
 Use https://learning.oreilly.com/videos/red-hat-certified/9780137442058/ to set up the environment. This is a preview course link!!
 
-**Podman Comments
+**Podman Comments**
 
  Reading about container namespaces / podman unshare
  ```
